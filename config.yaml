@@ -1,16 +1,16 @@
-baseURL: "https://example.com"
+baseURL: "https://pranavchendur.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "PranavChendur"
 pygmentsstyle: 'monokai'
 
 # Theme settings
 theme: novela
 paginate: 6
 social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
+  twitter: "https://pc.fyi/twitter"
+  github: "https://pc.fyi/github"
+  instagram: "https://pc.fyi/instagram"
+  linkedin: "https://pc.fyi/linkedin"
   dribbble: "#"
   youtube: "#"
 taxonomies:

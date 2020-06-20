@@ -1,2 +1,5 @@
 public
 .DS_Store
+wrangler.toml
+dist
+resources
