@@ -1,0 +1,10 @@
+name = "pranavchendur-com"
+type = "webpack"
+workers_dev = true
+
+[env.production]
+route = "pranavchendur.com/*"
+
+[site]
+bucket = "./public"
+entry-point = "pranavchendur-com-site"
