@@ -1,6 +1,6 @@
 name = "pranavchendur-com"
 type = "webpack"
-workers_dev = true
+workers_dev = false
 
 [env.production]
 route = "pranavchendur.com/*"
