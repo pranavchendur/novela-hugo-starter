@@ -7,4 +7,4 @@ route = "pranavchendur.com/*"
 
 [site]
 bucket = "./public"
-entry-point = "pranavchendur-com-site"
+entry-point = "./pranavchendur-com-site"
